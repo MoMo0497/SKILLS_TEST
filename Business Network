@@ -1,0 +1,11 @@
+
+import SwiftUI
+
+@main
+struct BusinessNetworkApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
